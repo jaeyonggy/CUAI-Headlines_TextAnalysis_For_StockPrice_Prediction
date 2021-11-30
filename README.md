@@ -4,6 +4,6 @@
 
 ### File description
 
-Web Scraping for headlines :  데이터를 구하는 과정에서 쓰인 Jupyter Notebook을 담은 폴더
+• Web Scraping for headlines :  데이터를 구하는 과정에서 쓰인 Jupyter Notebook을 담은 폴더
 
-tfidf_title_to_pred.ipynb :  분류 모델을 구현한 Jupyter notebook
+• tfidf_title_to_pred.ipynb :  분류 모델을 구현한 Jupyter notebook
