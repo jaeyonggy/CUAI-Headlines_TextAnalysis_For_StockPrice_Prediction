@@ -7,3 +7,7 @@
 • Web Scraping for headlines :  데이터를 구하는 과정에서 쓰인 Jupyter Notebook을 담은 폴더
 
 • tfidf_title_to_pred.ipynb :  분류 모델을 구현한 Jupyter notebook
+
+• 금융A팀-페이퍼.docx :  프로젝트 결과를 바탕으로 작성한 숏페이퍼  
+
+• 하계컨퍼런스 포스터.pdf :  프로젝트 결과를 선보이느 포스터  
